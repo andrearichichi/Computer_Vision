@@ -28,4 +28,4 @@ for cam_id, data in camera_annotations.items():
         json.dump(data, f, indent=4)
     print(f"Creato il file: {output_filename}")
     
-    # lol
+    # loll
