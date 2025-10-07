@@ -27,3 +27,5 @@ for cam_id, data in camera_annotations.items():
     with open(output_filename, "w") as f:
         json.dump(data, f, indent=4)
     print(f"Creato il file: {output_filename}")
+    
+    # lol
